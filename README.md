@@ -1,20 +1,22 @@
 # mvo-optimization
 **Kyungpook National University Financial data Analysis Society DART**  
 **2024 First Semester MVO_optimization Project**
+**2024 Kyungpook National University College of Business and Economics Academic Festival 
+Excellence Award**
 
-[Download our paper](https://github.com/DART-KNU/mvo-optimization/blob/main/mvo_optimization_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+자세한 내용은 발표자료 및 발표 대본을 참고 바랍니다.
 
-
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/decc07b7-e4e2-4f6e-a005-d7cb0b7f7a15)
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/b5da65e6-4e03-4d66-936c-036747298f7d)
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/9fdd592f-64c3-488e-b9df-2af4aaea32c2)
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/51c15c57-ec9f-449e-85ba-ac82cddb7144)
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/add8baa1-1eaa-46e5-b65f-0ce34507c89a)
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/e417e59f-071e-4722-882e-cea5e7c0e4f2)
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/64791361-c2e8-45a0-a026-ca1a2b0057ce)
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/5f49dfa0-454c-429f-acd8-aba458f562a7)
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/4d10eb0e-fd89-4c20-a67d-ea40b1200958)
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/632363fe-3e0c-46b7-9131-6dfc6ed8179e)
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/0fc48e38-9617-49fc-a28f-9714b6bc69d2)
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/832f90c2-705f-4836-bb18-4d7c398d0bd5)
-![MVO-optimization](https://github.com/DART-KNU/mvo-optimization/assets/73930331/16d0a632-223d-479f-acf9-77bf4b2fc895)
+![발표자료 (2)_page-0001](https://github.com/user-attachments/assets/8c3fa151-c7f7-4022-8d44-b71f7a802aca)
+![발표자료 (2)_page-0002](https://github.com/user-attachments/assets/ad24ed7b-cc74-4c3b-a1bb-0614a28e471a)
+![발표자료 (2)_page-0003](https://github.com/user-attachments/assets/e354b1d4-dc6f-4137-8f2a-8adf484658b5)
+![발표자료 (2)_page-0004](https://github.com/user-attachments/assets/20684271-52f5-47b3-8683-aae2fb4b0336)
+![발표자료 (2)_page-0005](https://github.com/user-attachments/assets/7ebb95bb-ede0-40ec-ac33-c862e5458be3)
+![발표자료 (2)_page-0006](https://github.com/user-attachments/assets/cc180546-a40b-4f89-a370-d5c50f5e8e14)
+![발표자료 (2)_page-0007](https://github.com/user-attachments/assets/1a1ca732-15a6-4c09-91c2-1cc2aee54ad6)
+![발표자료 (2)_page-0008](https://github.com/user-attachments/assets/b83d65e0-a02d-411b-beea-594b79849279)
+![발표자료 (2)_page-0009](https://github.com/user-attachments/assets/978c7971-b753-49a3-bd22-c7e0a57e7067)
+![발표자료 (2)_page-0010](https://github.com/user-attachments/assets/94c63cf3-14cc-49d1-b4bb-33b12342f640)
+![발표자료 (2)_page-0011](https://github.com/user-attachments/assets/135d007e-a685-4e64-8942-47a3e309c86c)
+![발표자료 (2)_page-0012](https://github.com/user-attachments/assets/e563b76c-63a5-4a0a-bcf7-64358c10747e)
+![발표자료 (2)_page-0013](https://github.com/user-attachments/assets/fc909235-f0f0-431a-baf8-e663d9e64327)
+![발표자료 (2)_page-0014](https://github.com/user-attachments/assets/a1d6c92c-e823-4efe-a9cc-7970ee664d69)
