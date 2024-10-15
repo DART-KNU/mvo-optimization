@@ -3,8 +3,8 @@
 **2024 First Semester MVO_optimization Project**
 **2024 College of Business and Economics Academic Festival Excellence Award**
 
-# 발표 대본을 참고하지 않으면 내용을 이해하기 힘듭니다.
-# 자세한 내용은 발표자료 및 발표 대본을 참고 바랍니다.
+**발표 대본을 참고하지 않으면 내용을 이해하기 힘듭니다.**
+**자세한 내용은 발표자료 및 발표 대본을 참고 바랍니다.**
 
 
 ![발표자료 (2)_page-0001](https://github.com/user-attachments/assets/8c3fa151-c7f7-4022-8d44-b71f7a802aca)
