@@ -1,10 +1,11 @@
 # mvo-optimization
 **Kyungpook National University Financial data Analysis Society DART**  
 **2024 First Semester MVO_optimization Project**
-**2024 Kyungpook National University College of Business and Economics Academic Festival 
-Excellence Award**
+**2024 College of Business and Economics Academic Festival Excellence Award**
 
-자세한 내용은 발표자료 및 발표 대본을 참고 바랍니다.
+# 발표 대본을 참고하지 않으면 내용을 이해하기 힘듭니다.
+# 자세한 내용은 발표자료 및 발표 대본을 참고 바랍니다.
+
 
 ![발표자료 (2)_page-0001](https://github.com/user-attachments/assets/8c3fa151-c7f7-4022-8d44-b71f7a802aca)
 ![발표자료 (2)_page-0002](https://github.com/user-attachments/assets/ad24ed7b-cc74-4c3b-a1bb-0614a28e471a)
